@@ -3,4 +3,7 @@ Ruby
 MongoDB
 MySQL
 Rails
-
+Rust
+AWS
+AI
+Terminal
