@@ -1,4 +1,4 @@
-### Conflictos en Git - 30 Sep - 1 de Octubre 2025
+### Conflictos en Git
 
 - Franco Leiva
 - Luis 
