@@ -7,5 +7,5 @@
 - Eduardo Ismael
 - David
 - Cristian
-
-
+- Ismael
+- Uriel
