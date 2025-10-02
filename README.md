@@ -4,9 +4,8 @@
 - Luis 
 - Wimer Esteba
 - Moisés
-- Eduardo
+- Eduardo Ismael
 - David
 - Cristian
 - Ismael
 - Uriel
-
